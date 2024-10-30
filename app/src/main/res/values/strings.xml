@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+
+    <string name="Instructions">1. Se realizará la apuesta entre los participantes del juego.\n\n
+2. La apuesta concluirá cuando el crupier lo indique.\n\n
+3. El crupier comenzará a repartir las cartas, 2 a cada jugador y deberán estar boca arriba y dos para él una boca arriba y otra boca abajo.\n\n
+
+4. Los jugadores deberán sumar el valor de ambas cartas en cada mano, según su puntaje decidirán si pedir más cartas(Hit) o abandonar el juego(Stand).\n\n
+5. Una vez que todos los participantes utilicen sus manos, llegará el turno del crupier, quien pedirá carta o se plantará.\n\n
+6. En caso de que el crupier acumule 16 puntos o menos, tendrá que solicitar otra carta, si tiene 17 o hasta 21, lo conveniente es que se plante.\n\n
+    Quien consiga 21 puntos, sin pasarse u obtenga el puntaje más cercano será el ganador del juego y se llevará la apuesta.</string>
+</resources>
